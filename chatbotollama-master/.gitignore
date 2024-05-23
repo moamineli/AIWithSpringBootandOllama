@@ -1,0 +1,8 @@
+*.txt
+*.class
+target
+*.prefs
+*.jar
+mvn*
+maven*
+.factorypath

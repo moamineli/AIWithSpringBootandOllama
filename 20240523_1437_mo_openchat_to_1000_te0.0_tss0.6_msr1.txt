@@ -1,0 +1,3 @@
+User: who is the boss
+Model: Response { content = AiMessage { text = " Le patron est Amine." toolExecutionRequests = null }, tokenUsage = TokenUsage { inputTokenCount = 102, outputTokenCount = 7, totalTokenCount = 109 }, finishReason = null }
+

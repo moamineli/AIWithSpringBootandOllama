@@ -1,0 +1,3 @@
+User: hello
+Model: Response { content = AiMessage { text = " Bonjour, comment puis-je vous aider ?" toolExecutionRequests = null }, tokenUsage = TokenUsage { inputTokenCount = 70, outputTokenCount = 12, totalTokenCount = 82 }, finishReason = null }
+
